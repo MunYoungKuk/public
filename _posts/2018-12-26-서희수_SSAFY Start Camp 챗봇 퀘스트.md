@@ -1,6 +1,6 @@
 # SSAFY Start Camp 2주차 챗봇 퀘스트
 
-광주_1_황인식, <https://github.com/rich9408>
+광주_1_서희수, <https://github.com/rich9408>
 
 ## Ⅰ. 스펙(Specification)
 
