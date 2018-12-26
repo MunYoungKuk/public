@@ -1,4 +1,4 @@
-# SSAFY Start Camp 2주차 챗봇 퀘스트
+# SSAFY Start Camp 챗봇 퀘스트
 
 광주_1반_서희수, https://github.com/MunYoungKuk/public-SSAFY-gj1
 
