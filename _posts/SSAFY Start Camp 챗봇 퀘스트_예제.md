@@ -2,7 +2,7 @@
 
 
 
-광주_1_황인식, https://github.com/owner0220
+광주_1_홍길동, https://github.com/example
 
 
 
