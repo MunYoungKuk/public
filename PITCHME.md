@@ -20,7 +20,7 @@
 ### 이름 : 박나원</br>
 ### 별명 : 버나</br>
 ### 성격 : 착한데 얄미움</br>
-### 사진 : ![SSAFY Image](https://blog.naver.com/PostList.nhn?from=postList&blogId=yud02150&currentPage=3#)</br>
+### 사진 : ![SSAFY Image](https://blogpfthumb-phinf.pstatic.net/MjAxNzAyMjVfMTI0/MDAxNDg4MDMwNDA1MzYw.Z58ZGKdozdq73mPPIYky5k-HZ8HN6DdC8eUuwmAWtQMg.dfxAKORQEHQsdW3wHcpXB1YbFW41gua8hVx9prmKt0wg.JPEG.yud02150/profileImage.jpg?type=w161)</br>
 
 연말 계획 및 12월 31일에 하고 싶은 것!</br>
 술마시기
